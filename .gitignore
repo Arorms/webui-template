@@ -1,0 +1,15 @@
+node_modules/
+dist/
+dist-ssr/
+*.local
+.DS_Store
+.vite/
+*.tsbuildinfo
+.env.local
+.env.*.local
+coverage/
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+.playwright-mcp/
